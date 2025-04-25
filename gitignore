@@ -1,0 +1,53 @@
+
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+bin/
+obj/
+TestResults/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Others
+*.cache
+*.bak
+*.dbmdl
+*.pdb
+
+# DotNet CLI artifacts
+project.lock.json
+project.fragment.lock.json
+
+# Entity Framework Migrations compiled outputs
+Migrations/*.Designer.cs
+
+# Publish outputs
+publish/
+
+# Node modules (optional frontend)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
