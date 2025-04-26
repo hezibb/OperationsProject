@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\OperationsClient\\OperationsClient.csproj": {}
+    "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsClient\\OperationsClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\OperationsClient\\OperationsClient.csproj": {
+    "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsClient\\OperationsClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\OperationsClient\\OperationsClient.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsClient\\OperationsClient.csproj",
         "projectName": "OperationsClient",
-        "projectPath": "C:\\Users\\user\\source\\repos\\OperationsClient\\OperationsClient.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsClient\\OperationsClient.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\OperationsClient\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5143,11 +5143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OperationsApi\\OperationsApi.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsApi\\OperationsApi.csproj",
       "projectName": "OperationsApi",
-      "projectPath": "C:\\Users\\user\\source\\repos\\OperationsApi\\OperationsApi.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsApi\\OperationsApi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\OperationsApi\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

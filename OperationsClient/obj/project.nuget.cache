@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WN93Wjg0h/QNfK7Bi0dA045mSL32TRNhJYcf7GhWM6kQvs/MvRYhNWjwJeFSvFn6cQN8IUyIfZih85WuMgWBBw==",
+  "dgSpecHash": "7+hr4QaW4YYhX08je8iOrVjm9PzpmaAQK7jvCSEULcEy0CYTt2Lq6tmGgezjUnk/yr5c8pcCXAeqJ+Ya7nrHtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\OperationsClient\\OperationsClient.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsClient\\OperationsClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.4\\microsoft.extensions.configuration.9.0.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",

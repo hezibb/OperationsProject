@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UwhXLaqKCiQPLEM9/g3QQ0zbkb3xJXX9KQlt4kQA+EOs1QdqVBtjnitCWznPsV+t9rhqcJwzTtweo/Cf1xXpqA==",
+  "dgSpecHash": "3dsqdMwoqH+apwYtGf0vNyC1mP0lEGSX3hNYgi6ggF+uIL+QoekniHcH4kt+ZbSd88AfL1Fv1qbcxLmD4Wv49A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\OperationsApi\\OperationsApi.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\OperationsProject\\OperationsApi\\OperationsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

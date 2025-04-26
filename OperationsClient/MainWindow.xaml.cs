@@ -29,7 +29,7 @@ namespace OperationsClient
             if (string.IsNullOrWhiteSpace(apiBaseUrl))
             {
                 MessageBox.Show("שגיאה: לא נמצאה כתובת API בקובץ appsettings.json");
-                Application.Current.Shutdown(); // סוגר את המערכת בבטחה
+                Application.Current.Shutdown(); // סוגר את המערכת 
                 return;
             }
 
